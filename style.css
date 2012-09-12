@@ -100,6 +100,10 @@ body { background-color: black; }
     top: 72px;
     font-size: 32px;
 }
+#S a{
+    font-size: 18px;
+    margin-left: 14px;
+}
 
 .mb {
     border: 1px solid #fc0;
